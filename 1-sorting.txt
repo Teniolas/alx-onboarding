@@ -1,0 +1,21 @@
+START 
+READ (A, B, C)
+COMPUTE
+IF A < B AND A<C AND b > a AND b < C
+
+WRITE (a,b,c)
+
+IF A<C AND a>b
+Write (b,A,c)
+
+If a< b and b>c
+Write (a,c,b)
+
+If a>c and a>b and b>c
+Write (c,b,a)
+
+If a>c and a>b and b<c
+Write (b,c,a)
+
+If a >c AND a<b
+write(c,a,b)
